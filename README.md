@@ -1,5 +1,6 @@
 # IR_File_Reader
 ## Serial @ 115200
+### For now, it only works with RAW codes.
 
 Expected output:
 > Have fun
